@@ -18,3 +18,5 @@ const people = [
         location: '3679 Elk Street, Denver, Colorado'
     }
 ]
+
+export {people}
